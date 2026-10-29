@@ -1,0 +1,21 @@
+cat > ~/cibersortx_docker/.gitignore <<'EOF'
+# Credentials: never upload
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Generated results
+results/*
+!results/.gitkeep
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+EOF
