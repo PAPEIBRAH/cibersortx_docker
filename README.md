@@ -61,3 +61,7 @@ Keep your `.env` file private. **Never upload your credentials to GitHub.**
 Steen CB et al. *Profiling Cell Type Abundance and Expression in Bulk Tissues with CIBERSORTx*. Methods in Molecular Biology, 2020. [Read the article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7695353/).
 
 **Note:** This repository simplifies execution; it does not remove CIBERSORTx access requirements or guarantee unlimited computing resources.
+
+
+
+Contact : pape-ibrahima.FAYE@etu.univ-amu.fr
